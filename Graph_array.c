@@ -1,3 +1,4 @@
+/*Depth First and Breadth First traversal using array*/
 #include<stdio.h>
 int stack[100];//to store DFS traversal intermediate result
 int Queue[100];//to store BFS traversal intermediate result
