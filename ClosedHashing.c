@@ -1,3 +1,4 @@
+/*implemnetation of closed hashinh*/
 #include<stdio.h>
 #include<stdlib.h>
 void display(int hashtable[],int n)
