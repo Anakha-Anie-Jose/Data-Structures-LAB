@@ -1,3 +1,4 @@
+/*Double Ended Queue*/
 #include<stdio.h>
 # define CAPACITY 50
 int size;
